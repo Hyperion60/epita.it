@@ -187,6 +187,7 @@
   class: tile-small-wide text-dark
   style:
   - 'background-color: #eee'
+  - 'background-image: url(https://annales.hyperion.tf/static/hyperion/img/favicon.ico)'
   
 - name: Mastercorp
   href: http://mastercorp.epita.eu/
